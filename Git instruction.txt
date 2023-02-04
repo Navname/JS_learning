@@ -6,3 +6,6 @@ git status
 git add .
 git commit -m""
 git push origin main
+
+git clone https://github.com/Navname/JS_learning.git
+git pull
