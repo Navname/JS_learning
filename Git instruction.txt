@@ -8,4 +8,12 @@ git commit -m""
 git push origin main
 
 git clone https://github.com/Navname/JS_learning.git
-git pull
+git pull to pul from github to local
+
+
+Before creating new branch do: git add + git commit!
+
+git branch see local branches
+git branch -a see local + remote branches
+git checkout -b branchName create new branch with copying parent branch and go to new branch
+
