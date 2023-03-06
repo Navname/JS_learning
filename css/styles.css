@@ -1,3 +1,27 @@
+body{
+    background-color: #D5B78B;
+    background-color: #E0C9A6;
+}
+
+@font-face {
+    font-family: 'Gawa';
+    src: url(../fonts/Gawaa-Regular.otf);
+}
+
+.header-name{
+    color: #000000;
+    text-align: center;
+    margin: 2ex;
+    font-family: 'Gawa';
+    text-decoration: underline;
+
+
+
+
+
+}
+
+
 .main{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
